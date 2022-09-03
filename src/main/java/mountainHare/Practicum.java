@@ -1,3 +1,8 @@
+package mountainHare;
+
+import mountainHare.Forest;
+import mountainHare.MountainHare;
+
 import java.util.List;
 
 public class Practicum {

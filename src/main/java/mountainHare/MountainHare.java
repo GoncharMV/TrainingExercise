@@ -1,3 +1,5 @@
+package mountainHare;
+
 public class MountainHare {
     int age;
     double weight;
