@@ -1,3 +1,5 @@
+package pair;
+
 public class Pair {
 
     public final Object key;
@@ -22,7 +24,7 @@ public class Pair {
 
     @Override
     public String toString() {
-        return "Pair{" +
+        return "pair.Pair{" +
                 "key=" + key +
                 ", value=" + value +
                 '}';

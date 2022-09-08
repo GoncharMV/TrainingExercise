@@ -1,3 +1,5 @@
+package pair;
+
 public class Praktikum {
     public static void main(String[] args) {
         Pair pair = new Pair(Integer.parseInt("4"), 1);

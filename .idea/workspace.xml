@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6f9936e5-b2df-4e6c-82a7-ea7fb6bd4624" name="Changes" comment="training exercise">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Pair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Praktikum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Potato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PotatoLaboratory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Forest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mountainHare/Forest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/MountainHare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mountainHare/MountainHare.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Practicum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mountainHare/Practicum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Pair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pair/Pair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Praktikum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pair/Praktikum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,9 +44,9 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Praktikum">
-    <configuration name="Praktikum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Praktikum" />
+  <component name="RunManager" selected="Application.PotatoLaboratory">
+    <configuration name="PotatoLaboratory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PotatoLaboratory" />
       <module name="JavaTraining" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -60,9 +59,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="pair.Praktikum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pair.Praktikum" />
+      <module name="JavaTraining" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Praktikum" />
+        <item itemvalue="Application.PotatoLaboratory" />
+        <item itemvalue="Application.pair.Praktikum" />
         <item itemvalue="Application.mountainHare.Practicum" />
       </list>
     </recent_temporary>
@@ -90,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661504461465</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="training exercise">
+      <created>1662206650963</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1662206650963</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
