@@ -5,11 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6f9936e5-b2df-4e6c-82a7-ea7fb6bd4624" name="Changes" comment="training exercise">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Potato.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PotatoLaboratory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TextFixer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pizza/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/search/FindRepeats.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/search/Search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/toUpper/Capitalizator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/toUpper/ToUpper.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Pair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pair/Pair.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Praktikum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pair/Praktikum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Potato.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/potato/Potato.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PotatoLaboratory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/potato/PotatoLaboratory.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,23 +48,37 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.PotatoLaboratory">
-    <configuration name="PotatoLaboratory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PotatoLaboratory" />
+  <component name="RunManager" selected="Application.TextFixer">
+    <configuration name="TextFixer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TextFixer" />
       <module name="JavaTraining" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="mountainHare.Practicum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mountainHare.Practicum" />
+    <configuration name="pizza.Pizza" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pizza.Pizza" />
       <module name="JavaTraining" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="pair.Praktikum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pair.Praktikum" />
+    <configuration name="potato.PotatoLaboratory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="potato.PotatoLaboratory" />
+      <module name="JavaTraining" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="search.Search" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="search.Search" />
+      <module name="JavaTraining" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="toUpper.ToUpper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="toUpper.ToUpper" />
       <module name="JavaTraining" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -68,9 +86,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PotatoLaboratory" />
-        <item itemvalue="Application.pair.Praktikum" />
-        <item itemvalue="Application.mountainHare.Practicum" />
+        <item itemvalue="Application.TextFixer" />
+        <item itemvalue="Application.toUpper.ToUpper" />
+        <item itemvalue="Application.search.Search" />
+        <item itemvalue="Application.pizza.Pizza" />
+        <item itemvalue="Application.potato.PotatoLaboratory" />
       </list>
     </recent_temporary>
   </component>
@@ -104,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662206650963</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="training exercise">
+      <created>1662633067882</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1662633067882</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

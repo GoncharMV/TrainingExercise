@@ -1,3 +1,5 @@
+package potato;
+
 import java.util.Objects;
 
 public class Potato implements Comparable<Potato> {
@@ -53,7 +55,7 @@ public class Potato implements Comparable<Potato> {
 
     @Override
     public String toString() {
-        return "Potato{" +
+        return "potato.Potato{" +
                 "id=" + id +
                 ", weight=" + weight +
                 ", length=" + length +
