@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6f9936e5-b2df-4e6c-82a7-ea7fb6bd4624" name="Changes" comment="training exercise">
-      <change afterPath="$PROJECT_DIR$/src/main/java/FindRepeats.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Grades.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PoemFixer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CheckPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CheckPrinterImproved.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Exceptions.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +43,21 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Grades">
+  <component name="RunManager" selected="Application.CheckPrinterImproved">
+    <configuration name="CheckPrinter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CheckPrinter" />
+      <module name="JavaTraining" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CheckPrinterImproved" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CheckPrinterImproved" />
+      <module name="JavaTraining" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FindRepeats" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FindRepeats" />
       <module name="JavaTraining" />
@@ -66,27 +79,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PoemFixer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PoemFixer" />
-      <module name="JavaTraining" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TextFixer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TextFixer" />
-      <module name="JavaTraining" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CheckPrinterImproved" />
+        <item itemvalue="Application.CheckPrinter" />
         <item itemvalue="Application.Grades" />
         <item itemvalue="Application.Palindrome" />
         <item itemvalue="Application.FindRepeats" />
-        <item itemvalue="Application.PoemFixer" />
-        <item itemvalue="Application.TextFixer" />
       </list>
     </recent_temporary>
   </component>
@@ -134,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663610415975</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="training exercise">
+      <created>1663682247497</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1663682247497</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
